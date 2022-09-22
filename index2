@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <title>COST SHEET</title>
+    </head>
+    <style>
+        table, th, td {
+          border:1px solid black;
+        }
+        </style>
+        <body>
+            <table>
+              <tr>
+                <th>Particular</th>
+                <th>Amount</th>
+                
+              </tr>
+              <tr>
+                <tr>
+                    <td>PrimeCost</td>
+                    <td>XXXX</td>
+                    <tr>
+                    <td>Add : Factory Overheads</td>
+                    <td>1236</td>
+                    </tr>
+                    
+                    
+                  </tr>
+                  <tr>
+                    <td>GrossWork Cost</td>
+                    <td>1284</td>
+                    <tr>
+                    <td>Add: Opening stock of Work-in-process</td>
+                    <td>XXXX</td>
+                    <tr>
+                    <td>Less: Closing stock of Work-in-process
+                        <td>XXXX</td>
+                        </tr>
+                    </tr>
+
+                    <tr>
+                        <td>Factory Cost</td>
+                        <td>1234</td>
+                        <tr>
+                        <td>Add:Quality Control Cost</td>
+                        <td>XXXX</td>
+                        </tr>
+                        <tr>
+                        <td>Add: Research & Development cost (Process related)</td>
+                        <td>XXXX</td>
+                        </tr>
+                        <tr>
+                            <td>Add: Administrative Overheads related with production</td>
+                         <td>XXXX</td>                   
+                             </tr>
+                        <tr>
+                        <td>Less: Credit for recoveries (miscellaneous income)</td>
+                        <td>XXXX</td>
+                        </tr>
+                        <tr>
+                            <td>Add: Packing Cost (Primary packing)</td>
+                            <td>XXXX</td>
+                        </tr>
+                        
+                    </tr>
+                    <tr>
+                        <td>Cost of Production</td>
+                        <td>XXXX</td>
+                    </tr>
+                    </table>
+                    </html>
